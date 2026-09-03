@@ -1,6 +1,6 @@
 # Problem: Contains Duplicate
 # Problem Link: https://leetcode.com/problems/contains-duplicate/description/?envType=problem-list-v2&envId=hash-table
-# Date: 3rd Sept 2026 
+# Date: 3rd Sept 2026
 # Time taken to solve: 15 mins
 
 #solution
