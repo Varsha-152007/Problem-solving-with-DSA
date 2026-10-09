@@ -1,7 +1,7 @@
 # Problem: Sum in a Matrix
 # Problem Link: https://leetcode.com/problems/sum-in-a-matrix/description/
 # Date: 9th Oct 2026
-# Time taken to solve: 25 mins
+# Time taken to solve: 15 mins
 
 #solution
 <
